@@ -18,8 +18,7 @@ Research Associate, Key Laboratory of Computational Optical Imaging Technology, 
 Education: 
 ======
 Sep. 2013-Jun. 2019   
-   Beijing Institute of Technology, Beijing, Ph.D. degree in Information and  Communication 
-Engineering   
+   Beijing Institute of Technology, Beijing, Ph.D. degree in Information and  Communication Engineering   
 Sep. 2009-Jun. 2013   
    Hebei University of Technology, Tianjin, Bachelor. degree in Electronic Information 
 Engineering
