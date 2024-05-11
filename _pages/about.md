@@ -25,8 +25,8 @@ Sep. 2009-Jun. 2013
 Working Fields and Publications:
 ======
 
-Working in  object detection in complex background and onboard real-time information processing. , etc.,   
-and has obtained 7 patents and published more than 10 Chineseand English papers in international and   
+Working in  object detection in complex background and onboard real-time information processing. , etc.,
+and has obtained 7 patents and published more than 10 Chineseand English papers in international and 
 domestic academic journals. 
 
 Representative Articles: 
