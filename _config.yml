@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Zhao Boya / Personal Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Zhao Boya"
 description              : &description "personal description"
 url                      : https://AndrewZhao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,10 +25,10 @@ author:
   name             : "Zhao Boya"
   pronouns         : # example: "she/her"  
   bio              : "Main research interests ： real-time processing of remote sensing data，target detection"
-  location         : "Earth"
+  location         : "Beijing，China"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zhaoby@aircas.ac.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
