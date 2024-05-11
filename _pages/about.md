@@ -18,14 +18,13 @@ Research Associate, Key Laboratory of Computational Optical Imaging Technology, 
 Education: 
 ======
 Sep. 2013-Jun. 2019   
-   Beijing Institute of Technology, Beijing, Ph.D. degree in Information and  Communication Engineering   
+Beijing Institute of Technology, Beijing, Ph.D. degree in Information and  Communication Engineering   
 Sep. 2009-Jun. 2013   
-   Hebei University of Technology, Tianjin, Bachelor. degree in Electronic Information Engineering
+Hebei University of Technology, Tianjin, Bachelor. degree in Electronic Information Engineering
 
 Working Fields and Publications:
 ======
-
-Working in  object detection in complex background and onboard real-time information processing. , etc.,
+Working in  object detection in complex background and onboard real-time information processing. , etc., 
 and has obtained 7 patents and published more than 10 Chineseand English papers in international and 
 domestic academic journals. 
 
