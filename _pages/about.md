@@ -18,10 +18,10 @@ Jul. 2019-present
 Education: 
 ======
 Sep. 2013-Jun. 2019
- Beijing Institute of Technology, Beijing, Ph.D. degree in Information and  Communication 
+      Beijing Institute of Technology, Beijing, Ph.D. degree in Information and  Communication 
 Engineering
  Sep. 2009-Jun. 2013
- Hebei University of Technology, Tianjin, Bachelor. degree in Electronic Information 
+      Hebei University of Technology, Tianjin, Bachelor. degree in Electronic Information 
 Engineering
 
  Working Fields and Publications:
