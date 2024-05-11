@@ -24,8 +24,8 @@ Engineering
       Hebei University of Technology, Tianjin, Bachelor. degree in Electronic Information 
 Engineering
 
- Working Fields and Publications:
- ======
+Working Fields and Publications:
+======
  Working in  object detection in complex background and onboard real-time 
 information processing. , etc., and has obtained 7 patents and published more than 10 Chinese 
 and English papers in international and domestic academic journals. 
